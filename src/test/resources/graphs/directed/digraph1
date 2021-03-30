@@ -1,0 +1,5 @@
+directed graph 2D
+A -> B
+B -> C
+C -> D
+A -> D
