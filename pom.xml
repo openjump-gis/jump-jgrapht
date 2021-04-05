@@ -9,6 +9,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <version.number>0.0.0</version.number>
         <jts.version>1.18.1</jts.version>
     </properties>

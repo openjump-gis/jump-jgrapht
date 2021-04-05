@@ -4,7 +4,6 @@ import com.vividsolutions.jump.feature.Feature;
 import org.jgrapht.Graph;
 import org.jgrapht.alg.cycle.CycleDetector;
 import org.junit.Test;
-import org.locationtech.jts.geom.Coordinate;
 import org.locationtech.jts.util.Assert;
 
 import java.util.Arrays;
